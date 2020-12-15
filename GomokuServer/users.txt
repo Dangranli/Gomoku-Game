@@ -1,0 +1,15 @@
+1;jack;1;-8
+2;mike;2;8
+3;jim;3;-2
+Alice;apple;123;-4
+Bob;blank;123;0;
+jack;banana;123456;0
+Chole;peach;123;0;
+Mary;orange;123;0
+han;lemon;123;0;
+Tim;orange;123;0;
+Peter;banana;123;0;
+Tom;banana;123;0
+Jerry;orange;123;-2
+test;apple;123;2
+dara;lalalla;123;0;

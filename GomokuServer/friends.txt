@@ -1,0 +1,8 @@
+2;1;jack
+1;2;mike
+Alice;jack;banana
+jack;Alice;apple
+Mary;Alice;apple
+Alice;Mary;orange
+test;Tom;banana
+Tom;test;apple

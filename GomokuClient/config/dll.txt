@@ -1,0 +1,1 @@
+userId = Alice;imageName = Alice-1-2.jpg

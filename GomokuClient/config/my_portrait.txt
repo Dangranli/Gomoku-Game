@@ -1,0 +1,3 @@
+userId = jack;imageName = 12-1.png
+userId = Alice;imageName = 72-1.png
+userId = 1;imageName = 6-1.png
